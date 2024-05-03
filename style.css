@@ -1,0 +1,16 @@
+#red:checked{
+    accent-color: red;
+}
+
+#green:checked{
+    accent-color: green;
+}
+
+
+#blue:checked{
+    accent-color: blue;
+}
+
+/* body{
+    background-color: orangered;
+} */
